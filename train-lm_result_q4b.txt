@@ -1,0 +1,29 @@
+
+Training model for 10 epochs
+training set: 25000 sentences (batch size 100)
+Optimizing loss on 1000 sentences
+Vocab size: 100
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 4.555038539583167
+mean loss on dev: 4.5550385395831725
+mean loss on test: 4.567160359750894
+Unadjusted on dev: 95.110
+Adjusted for missing vocab on dev: 132.399
+Unadjusted on test: 96.270
+Adjusted for missing vocab on test: 132.399Using Glove
+Training model for 10 epochs
+training set: 25000 sentences (batch size 100)
+Optimizing loss on 1000 sentences
+Vocab size: 100
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 4.420621706553805
+mean loss on dev: 4.420621706553805
+mean loss on test: 4.427998925915909
+Unadjusted on dev: 83.148
+Adjusted for missing vocab on dev: 113.104
+Unadjusted on test: 83.764
+Adjusted for missing vocab on test: 113.104

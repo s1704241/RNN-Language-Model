@@ -1,0 +1,229 @@
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 4.97313944541113
+mean loss on dev: 4.973139445411133
+Unadjusted: 144.480
+Adjusted for missing vocab: 209.625
+the mean loss on dev set is: 4.973139445411133
+the mean loss on test set is: 4.97769961490476
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 5.132931888175017
+mean loss on dev: 5.132931888175016
+Unadjusted: 169.513
+Adjusted for missing vocab: 251.182
+the mean loss on dev set is: 5.132931888175016
+the mean loss on test set is: 5.135593375302385
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 5.312957608309724
+mean loss on dev: 5.312957608309724
+Unadjusted: 202.950
+Adjusted for missing vocab: 307.950
+the mean loss on dev set is: 5.312957608309724
+the mean loss on test set is: 5.318732454419239
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 2
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 5.314183768404834
+mean loss on dev: 5.314183768404838
+Unadjusted: 203.199
+Adjusted for missing vocab: 308.377
+the mean loss on dev set is: 5.314183768404838
+the mean loss on test set is: 5.319818592061865
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 2
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 5.1365600271929965
+mean loss on dev: 5.136560027192998
+Unadjusted: 170.130
+Adjusted for missing vocab: 252.216
+the mean loss on dev set is: 5.136560027192998
+the mean loss on test set is: 5.139437964973923
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 2
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 5.029222280349089
+mean loss on dev: 5.029222280349086
+Unadjusted: 152.814
+Adjusted for missing vocab: 223.362
+the mean loss on dev set is: 5.029222280349086
+the mean loss on test set is: 5.033278948608594
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 5
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 5.021098622112117
+mean loss on dev: 5.021098622112118
+Unadjusted: 151.578
+Adjusted for missing vocab: 221.318
+the mean loss on dev set is: 5.021098622112118
+the mean loss on test set is: 5.023780890656238
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 5
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 5.136824058303708
+mean loss on dev: 5.136824058303717
+Unadjusted: 170.174
+Adjusted for missing vocab: 252.291
+the mean loss on dev set is: 5.136824058303717
+the mean loss on test set is: 5.139621462910868
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 5
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 5.314223521752088
+mean loss on dev: 5.314223521752096
+Unadjusted: 203.207
+Adjusted for missing vocab: 308.391
+the mean loss on dev set is: 5.314223521752096
+the mean loss on test set is: 5.319768897305739
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 5
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 5.403781106364606
+mean loss on dev: 5.403781106364598
+Unadjusted: 222.245
+Adjusted for missing vocab: 341.290
+the mean loss on dev set is: 5.403781106364598
+the mean loss on test set is: 5.40585364781599
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 5
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 5.214640703207686
+mean loss on dev: 5.2146407032076825
+Unadjusted: 183.946
+Adjusted for missing vocab: 275.520
+the mean loss on dev set is: 5.2146407032076825
+the mean loss on test set is: 5.214769198761654
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 5
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 5.018008955421852
+mean loss on dev: 5.018008955421853
+Unadjusted: 151.110
+Adjusted for missing vocab: 220.545
+the mean loss on dev set is: 5.018008955421853
+the mean loss on test set is: 5.022918610183995
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 2
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 5.0351412747655795
+mean loss on dev: 5.03514127476558
+Unadjusted: 153.721
+Adjusted for missing vocab: 224.864
+the mean loss on dev set is: 5.03514127476558
+the mean loss on test set is: 5.041143201568668
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 2
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 5.214505668687516
+mean loss on dev: 5.214505668687515
+Unadjusted: 183.921
+Adjusted for missing vocab: 275.477
+the mean loss on dev set is: 5.214505668687515
+the mean loss on test set is: 5.214623670987675
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 2
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 5.403824569896471
+mean loss on dev: 5.403824569896471
+Unadjusted: 222.255
+Adjusted for missing vocab: 341.307
+the mean loss on dev set is: 5.403824569896471
+the mean loss on test set is: 5.405899501276417
+
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 5.016975861837501
+mean loss on dev: 5.016975861837505
+Unadjusted: 150.954
+Adjusted for missing vocab: 220.288
+the mean loss on dev set is: 5.016975861837505
+the mean loss on test set is: 5.020962977013376
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 0
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 5.407677518765296
+mean loss on dev: 5.407677518765296
+Unadjusted: 223.113
+Adjusted for missing vocab: 342.799
+the mean loss on dev set is: 5.407677518765296
+the mean loss on test set is: 5.409599213492303
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 0
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 5.21897271803343
+mean loss on dev: 5.218972718033434
+Unadjusted: 184.744
+Adjusted for missing vocab: 276.874
+the mean loss on dev set is: 5.218972718033434
+the mean loss on test set is: 5.219042073470884
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 4.415855613478681
+mean loss on dev: 4.415855613478677
+Unadjusted: 82.753
+Adjusted for missing vocab: 111.560
+the mean loss on dev set is: 4.415855613478677
+the mean loss on test set is: 4.4266303301350565

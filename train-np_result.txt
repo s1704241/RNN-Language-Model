@@ -1,0 +1,130 @@
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.635634871451848
+Best accuracy on dev: 0.668 
+test_mean_loss: 0.6204844102294329
+test_acc: 0.68225
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 0.6608472647113591
+Best accuracy on dev: 0.666 
+test_mean_loss: 0.640548696724692
+test_acc: 0.68275
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 0.6646605448031153
+Best accuracy on dev: 0.666 
+test_mean_loss: 0.6436971161701759
+test_acc: 0.68225
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 2
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 0.6639402028132535
+Best accuracy on dev: 0.666 
+test_mean_loss: 0.6430868153046193
+test_acc: 0.68275
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 2
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.6332439923131014
+Best accuracy on dev: 0.668 
+test_mean_loss: 0.6182634297098912
+test_acc: 0.68225
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 2
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 0.6597984743518395
+Best accuracy on dev: 0.666 
+test_mean_loss: 0.6396602295792564
+test_acc: 0.6825
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 5
+Initial learning rate set to 0.1, annealing set to 5
+Best loss on dev: 0.6597087735719344
+Best accuracy on dev: 0.666 
+test_mean_loss: 0.6395795808022396
+test_acc: 0.6825
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 5
+Initial learning rate set to 0.05, annealing set to 5
+Best loss on dev: 0.6638575513801886
+Best accuracy on dev: 0.666 
+test_mean_loss: 0.6430117908180213
+test_acc: 0.68275
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 5
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.633147963915017
+Best accuracy on dev: 0.668 
+test_mean_loss: 0.6181658817019144
+test_acc: 0.68225
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 25
+Steps for back propagation: 5
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.6394125951417464
+Best accuracy on dev: 0.659 
+test_mean_loss: 0.6289477396517383
+test_acc: 0.675
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.635634871451848
+Best accuracy on dev: 0.668 
+test_mean_loss: 0.6204844102294329
+test_acc: 0.68225
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.635634871451848
+Best accuracy on dev: 0.668 
+test_mean_loss: 0.6204844102294329
+test_acc: 0.68225
+
+Optimizing loss on 1000 sentences
+Vocab size: 2000
+Hidden units: 50
+Steps for back propagation: 0
+Initial learning rate set to 0.5, annealing set to 5
+Best loss on dev: 0.635634871451848
+Best accuracy on dev: 0.668 
+test_mean_loss: 0.6204844102294329
+test_acc: 0.68225
